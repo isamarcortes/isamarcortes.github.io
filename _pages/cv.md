@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Environmental Science and Management, Montclair State University, Fall 2023 (expected)
+* M.S. in Earth and Environmental Science, Montclair State University, 2019
+* B.S. in Sustainability Science & B.A. in Geography, Montclair State University, 2017
+
 
 Work experience
 ======
